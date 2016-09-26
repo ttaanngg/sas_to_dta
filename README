@@ -5,5 +5,4 @@ positional arguments:
 
 optional arguments:
   -h, --help            show this help message and exit
-  -x, --extract_archive
-                        determine to extract archive, only support zip.
+  -x, --extract_archive determine to extract archive, only support zip.
